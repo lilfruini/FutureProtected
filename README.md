@@ -20,6 +20,9 @@ The following repository is dedicated to the upkeep of the following works of li
 * **From Hell to Heaven [RB1, RB2]**
 * **The Healing Power of Sunlight [HPS]**
 * **Three Days in the Temple [TDT]**
+* **Secrets of Life [SOL]**
+* **Secrets of Creation [SOC]**
+* **The Lord's Sermons [TLS]**
 * **The Great Gospel of John [GGJ1, GGJ2, GGJ3, GGJ4, GGJ5, GGJ6, GGJ7, GGJ8, GGJ9, GGJ10, GGJ11]**
 
-The works have been written by Jakob Lorber and Leopold Engel (GGJ11). The .txt files have been downloaded from the database at https://jakob-lorber.cc and condensed accordingly.
+The works have been written by Jakob Lorber, Gottfried Mayerhofer (SOL, SOC, TLS) and Leopold Engel (GGJ11). The .txt files have been downloaded from the database at https://jakob-lorber.cc and https://archive.org and condensed accordingly.
